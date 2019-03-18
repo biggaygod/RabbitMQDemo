@@ -1,0 +1,11 @@
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\bin\Debug\netcoreapp2.1\RPCService.deps.json
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\bin\Debug\netcoreapp2.1\RPCService.runtimeconfig.json
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\bin\Debug\netcoreapp2.1\RPCService.runtimeconfig.dev.json
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\bin\Debug\netcoreapp2.1\RPCService.dll
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\bin\Debug\netcoreapp2.1\RPCService.pdb
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.csprojAssemblyReference.cache
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.csproj.CoreCompileInputs.cache
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.AssemblyInfoInputs.cache
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.AssemblyInfo.cs
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.dll
+C:\Users\24181\rabbitmqtest\RPC\rpcservice\obj\Debug\netcoreapp2.1\RPCService.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\24181\\RabbitMQTest\\Worker1\\Worker.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

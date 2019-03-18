@@ -1,0 +1,11 @@
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.csprojAssemblyReference.cache
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.AssemblyInfoInputs.cache
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.AssemblyInfo.cs
+C:\Users\24181\rabbitmqtest\newtask\bin\Debug\netcoreapp2.1\NewTask.deps.json
+C:\Users\24181\rabbitmqtest\newtask\bin\Debug\netcoreapp2.1\NewTask.runtimeconfig.json
+C:\Users\24181\rabbitmqtest\newtask\bin\Debug\netcoreapp2.1\NewTask.runtimeconfig.dev.json
+C:\Users\24181\rabbitmqtest\newtask\bin\Debug\netcoreapp2.1\NewTask.dll
+C:\Users\24181\rabbitmqtest\newtask\bin\Debug\netcoreapp2.1\NewTask.pdb
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.dll
+C:\Users\24181\rabbitmqtest\newtask\obj\Debug\netcoreapp2.1\NewTask.pdb
